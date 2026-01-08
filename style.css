@@ -3,7 +3,51 @@
     padding: 0;
 }
 
+/* main container */
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
 /* shared style */
 
 
 /* main style */
+
+/* header */
+
+header{
+    max-width: 1200px;
+    margin: auto;
+    padding: 16px 120px;
+}
+
+.header-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-section ul{
+    list-style: none;
+    display: flex;
+    gap: 32px;
+}
+
+.header-section ul li a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 600px;
+}
+
+.hbtn{
+    padding: 12.5px 16px;
+    color: #FFFFFF;
+    background-color: #469165;
+    border: none;
+    border-radius: 4px;
+}
+
+
+/* hero section */
