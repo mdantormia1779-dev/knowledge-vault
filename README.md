@@ -1,123 +1,43 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-001 😎
+# 📚 Knowledge Vault
+
+A simple and clean static website built using HTML and CSS. This project is designed based on a Figma layout and focuses on proper structure, alignment, and responsive design.
+
+## 🚀 Live Demo
+🔗 Live Site: https://your-live-link-here  
+🔗 GitHub Repo: https://github.com/your-username/knowledge-vault
 
 ---
 
-📅 Deadline For 60 marks: 9th January, 2026 (11:59 pm ⏱️)
+## 🎯 Project Overview
 
-📅 Deadline For 50 marks: 10th January, 2026 (11:59 pm ⏱️)
+Knowledge Vault is a modern UI-based website where users can explore notes, ideas, and structured information in a visually appealing way.
 
-📅 Deadline For 30 marks: Any time after 10th January.
-
-## 🔗 Resources
-
-- **Figma Design:**
-  [https://www.figma.com/design/oMYH7Ccj6UU8MKZwuGiAXB/KnowledgeVault---L1]
-
-## ❓ Common Questions & Answers
-
-**Can I use different images?**
-
-- Yes, you may use any relevant images.
-
-**Can I change the alignment and design freely?**
-
-- No. You must follow the alignment and layout shown in the Figma design.
-
-**Can I change colors?**
-
-- Yes, as long as the colors are relevant and visually consistent.
-
-**Do I need to make the page pixel-perfect?**
-
-- No. You can use your own margin and padding while following the overall structure from Figma.
+This project was created as part of an assignment to practice:
+- HTML structure
+- CSS styling
+- Layout design from Figma
 
 ---
 
-## 📌 Assignment Requirements
+## ✨ Features
 
-### ✅ Main Requirements (50 Marks)
-
-### 🔹 Navbar Section
-
-![Navbar Section](Sections/Navbar.png)
-
-- A logo aligned to the left
-- Menu items centered (as shown in Figma)
-- A button aligned to the right
+- 🔹 Clean and structured layout
+- 🔹 Fully designed using HTML5 & CSS3
+- 🔹 Figma-based UI implementation
+- 🔹 Responsive alignment and spacing
+- 🔹 Hover effects on buttons
+- 🔹 No placeholder (Lorem Ipsum) text used
 
 ---
 
-### 🔹 Banner Section
+## 📌 Sections Included
 
-![Banner Section](Sections/Banner.png)
-
-- A full-width background image
-- Center-aligned heading and text (as per Figma)
-- Two buttons below the text, aligned like the Figma design
-
----
-
-### 🔹 Notes Section
-
-![Notes Section](Sections/Notes%20Section.png)
-
-- Section heading and subtitle at the top
-- Four cards aligned in a single row
-- Each card must include:
-
-  - An icon
-  - Icon background color similar to Figma
-  - A title and subtitle
-
----
-
-### 🔹 Second Brain Section
-
-![Second Brain Section](Sections/Second%20Brain%20Section.png)
-
-- An image on the left
-- On the right side:
-
-  - Section message
-  - Title
-  - Description
-
-- A list of items below the description
-
----
-
-### 🔹 Footer Section
-
-![Footer Section](Sections/Footer.png)
-
-- A logo on the left
-- Social media links with icons on the right
-- A horizontal divider
-- Copyright message below the divider
-
----
-
-## 🚀 CHALLENGES (10 Marks)
-
-### 🔸 Early Access Section
-
-![Early Access Section](Sections/Early%20Access%20Section.png)
-
-- A centered title and subtitle
-- Below the subtitle:
-
-  - A simple message
-  - A “Get Early Access” button with an icon
-
-- Two ending messages below the button
-
----
-
-### 🔸 Interaction & Code Quality
-
-- Hover effects on all buttons
-- Minimum **5 GitHub commits**
-- **No Lorem Ipsum** text anywhere on the website
+- ✅ Navbar
+- ✅ Banner
+- ✅ Notes Cards Section
+- ✅ Second Brain Section
+- ✅ Early Access Section
+- ✅ Footer
 
 ---
 
@@ -125,24 +45,7 @@
 
 - HTML5
 - CSS3
-- No JavaScript
-- No CSS frameworks or libraries
-
+- JavaScript
 ---
 
-## ✅ Submission Checklist
-
-- Figma layout followed correctly
-- Proper alignment and spacing
-- Clean and readable HTML & CSS
-- Live site deployed
-- Public GitHub repository
-
----
-
-## 📂 Submission Format
-
-- **GitHub Repository Link**
-- **Live Website Link (GitHub Pages)**
-
----
+## 📂 Folder Structure
